@@ -1,9 +1,9 @@
 # Project Name
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Active]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to build a machine learning model to estimate the sale price of homes. 
 
 ### Collaborators
 |Name                      |  Github Page      |  Personal Website  |
@@ -11,37 +11,34 @@ The purpose of this project is ________. (Describe the main goals of the project
 |Francis Mudavanhu | [francismudavanhu](https://github.com/FrancisMudavanhu)| - |
 
 ### Methods Used
-* Inferential Statistics
-* Machine Learning
 * Data Visualization
+* Descriptive Statistics
 * Predictive Modeling
-* etc.
+* Machine Learning
 
 ### Technologies
-* R
 * Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc.
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+
+### Predicting Sale Price of Houses
+
+The aim of this project is to build a machine learning model to predict the sale prices of homes based on a multitude of explanatory variables describing different aspects of residential homes. 
+
+### Why is this important? 
+
+Predicting house prices is useful to identify fruitful investments, or to determine whether the price advertised for a house is over or underestimated, before making a buying judgment.
+
+### What is the objective of the machine learning model?
+
+We aim to minimise the difference between the real price, and the estimated price by our model. We will evaluate model performance using the mean squared error (mse) and the root squared of the mean squared error (rmse).
+
+
 
 
 ## Getting Started
 
 1. Clone this repo.
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-5. Follow setup [instructions](Link to file)
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](#)
-* [Notebook/Markdown/Slide DeckTitle](#)
 
 ---
 
